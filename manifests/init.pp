@@ -44,6 +44,6 @@
 #
 class sftpplusclient {
 
- class {'::sftpplusclient::doiwnload':}
+ class {'::sftpplusclient::download':}
 
 }

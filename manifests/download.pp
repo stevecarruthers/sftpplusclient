@@ -12,7 +12,7 @@ class sftpplusclient::download (
   include ::wget
 
   ::wget::fetch { "${proatria_dl}/${major_version}/${minor_version}/${sftpplus_tar}":
-    destination => "${download_location}/$(sftpplus_tar}",
+    destination => "${download_location}/${sftpplus_tar}",
     timeout     => $timeout,
     verbose     => $verbose,
   }
