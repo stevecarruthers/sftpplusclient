@@ -1,0 +1,15 @@
+{
+  "name": "stevecarruthers/sftpplusclient",
+  "version": "0.1.0",
+  "author": "stevecarruthers",
+  "summary": "Automate SFTPPlus Client installation",
+  "license": "Apache-2.0",
+  "source": "git@github.com:stevecarruthers/sftpplusclient.git",
+  "project_page": "https://github.com/stevecarruthers/sftpplusclient",
+  "issues_url": "https://github.com/stevecarruthers/sftpplusclient/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
