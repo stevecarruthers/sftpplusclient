@@ -1,4 +1,5 @@
 # sftpplusclient
+<<<<<<< HEAD
 
 #### Table of Contents
 
@@ -81,3 +82,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+SFTPPlus Client
+>>>>>>> 56de47c2029e0879c12aca7fc5c230ffede1c49d
