@@ -45,5 +45,5 @@
 class sftpplusclient {
 
  class {'::sftpplusclient::download':}
-
+ class {'::sftpplusclient::deploy':}
 }
